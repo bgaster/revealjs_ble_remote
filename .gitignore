@@ -1,11 +1,5 @@
-libcxx
-*.[oa]
-*.*~
-*~
 *.js
 typings
 node_modules
-.cabal-sandbox
-cabal.sandbox.config
 dist
 bower_components
