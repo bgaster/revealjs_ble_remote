@@ -1,0 +1,24 @@
+{
+   "name": "reveal-remote",
+   "version": "0.0.1",
+   "description": "BLE Remote for Reveal.js",
+   "author": "Bendict R. Gaster",
+   "license": "MIT",
+   "scripts": {
+    "start": "node ./src/app.js",
+    "prepublish": "tsc",
+    "build": "tsc"
+   },
+   "main": "./src/app.js",
+   "keywords": [
+    "reveal.js",
+    "remote",
+    "Bluetooth",
+    "BLE"
+   ],
+   "dependencies": {
+    "ws": "~1.1.0",
+    "noble": "~1.3.0",
+    "typescript": "~1.8.10"
+   }
+}

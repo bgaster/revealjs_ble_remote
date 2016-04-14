@@ -1,0 +1,7 @@
+{
+  "ambientDependencies": {
+    "noble": "registry:dt/noble#0.0.0+20160406120732",
+    "node": "registry:dt/node#4.0.0+20160412142033",
+    "ws": "registry:dt/ws#0.0.0+20160317120654"
+  }
+}
