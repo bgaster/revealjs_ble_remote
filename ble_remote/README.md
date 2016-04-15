@@ -27,3 +27,8 @@ Example configuration:
 
         // other dependencies...
        ]
+
+License
+=======
+
+See LICENSE file.

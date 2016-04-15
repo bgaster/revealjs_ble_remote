@@ -59,3 +59,8 @@ start the server simple run the command:
 which will display the message:
 
     Reveal.JS Controller Server running on port 3000
+
+License
+=======
+
+See LICENSE file.

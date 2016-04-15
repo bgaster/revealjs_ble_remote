@@ -1,0 +1,18 @@
+{
+  "cmd": "make",
+  "name": "BLE Controller",
+  "args": [ "" ],
+  "cwd": "{FILE_ACTIVE_PATH}",
+  "errorMatch": [
+    "^regexp1$",
+    "^regexp2$"
+  ],
+  "targets": {
+    "hrs_s130": {
+      "cmd": "make hrs_s130"
+    },
+    "flash": {
+      "cmd": "make flash_mk20"
+    }
+  }
+}
