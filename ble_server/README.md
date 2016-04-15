@@ -12,7 +12,7 @@ The server is run on:
 and sends the messages:
 
 | Message | Comment           |
-| --------------------------- |
+| --------|------------------ |
 | 'left'  | Move slide left   |
 | 'right' | Move slide right  |
 | 'up'    | Move slide up     |
